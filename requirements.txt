@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+stripe
+jupyter
+matplotlib
+seaborn
